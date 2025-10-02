@@ -1,6 +1,6 @@
 # ¡Hola, soy Victor Sevillano! 👋
 
-## 🚀 Fullstack Developer
+## 🚀 Fullstack Developer Jr
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=200&section=header&text=Victor%20Sevillano&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 
@@ -32,11 +32,9 @@
 | Proyecto | Descripción |
 |----------|-------------|
 | **Sistema de gestión de incidencias** | 📌 Reporte y administración de incidencias para municipalidades |
-| **Plataforma de licencias** | 🔑 Emisión, validación y gestión de licencias digitales |
-| **Sistema de gestión de restaurantes** | 🍽️ Administración de pedidos, mesas y clientes |
-| **API eCommerce** | 🛒 Gestión de productos, pedidos y usuarios |
-| **Plataforma de seguridad ciudadana** | 🚨 Reportes y alertas en tiempo real |
-| **Gestor de tareas** | ✅ Organización y seguimiento de tareas personales y de equipo |
+| **Api de licencias** | 🔑 Emisión, validación y gestión de licencias digitales |
+| **API Veterinaria** | 🐾 Gestión de citas, pacientes y control médico de mascotas |
+
 
 ---
 
